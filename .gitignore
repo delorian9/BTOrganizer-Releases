@@ -2,3 +2,6 @@
 !README.md
 !*.exe
 !.gitignore
+!MODEL_CARD.md
+!release-manifest.json
+!SHA256SUMS.txt
